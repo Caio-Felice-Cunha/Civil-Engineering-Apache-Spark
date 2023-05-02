@@ -26,3 +26,6 @@ With the trained model we will make predictions using new data.
 
 ## Next Steps
 * Accepting suggestions.
+
+## Disclaimer
+This project was largely done in the Data Science Academy, Big Data Real-Time Analytics with Python and Spark course (part of the Data Scientist training)
